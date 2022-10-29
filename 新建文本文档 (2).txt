@@ -1,0 +1,4 @@
+Purchase(c_id,ticket_id,seat_id)
+Issued for(schedule_id,ticket_id,time)
+Arrange(hall_id,schedule_id,location,time)
+Execute(movie_id,schedule_id,time)
